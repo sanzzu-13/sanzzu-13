@@ -93,6 +93,7 @@
 
 ![GitHub User's stars](https://img.shields.io/github/stars/sanzzu-13)
 ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/SANJAYAKGIRI1)
+![intagram(formerly Instagram) Follow](https://img.shields.io/instagram/follow/SANJAYAK.GIRI)
 
 
   
