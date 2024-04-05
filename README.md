@@ -2,7 +2,7 @@
 
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ROBOT&size=25&color=39FF14&background=000000&center=true&vCenter=true&width=490&lines=%3E+Its+me+sanjaya+kumar+giri+i+want+to+do+welcome+in+my+github+account...!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ROBOT&size=50&color=39FF14&background=000000&center=true&vCenter=true&width=700&lines=%3E+Its+me+sanjaya+kumar+giri+i+want+to+do+welcome+in+my+github+account...!)
 
 </div>
 
