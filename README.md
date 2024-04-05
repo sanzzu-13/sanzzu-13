@@ -92,10 +92,8 @@
 <br>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/sanjaya-kumar-giri-43194125b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BGJYwFzo8S5izfSMXD7jOhA%3D%3D/" target="blank"><a href="mailto:sarath2375@gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/86669668/171339003-ef5b5c96-eac8-478c-a9cc-318ca9477fce.gif" alt="girisanjay517@gmail.com" width="40" /></a>      
-&nbsp;<a href="https://www.sanjayakumargiri.com.np/sarath_pm" target="blank"><img align="center" src="https://user-images.githubusercontent.com/86669668/171338019-50f8c8de-e1ac-4651-b2cf-1901eceb2e51.gif" alt="sanzzu-13" height="40" width="45"></a>
-&nbsp;
-  
+<a href="https://www.linkedin.com/in/sanjaya-kumar-giri-43194125b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BGJYwFzo8S5izfSMXD7jOhA%3D%3D/" target="blank">
+
   
 
 -----
