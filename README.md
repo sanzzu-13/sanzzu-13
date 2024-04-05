@@ -1,5 +1,5 @@
 <a href="https://www.linkedin.com/in/sanjaya-kumar-giri-43194125b/?originalSubdomain=np" target="_blank" ><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a> <a href="https://medium.com/@girisanjay517" target="_blank"><img src="https://img.shields.io/twitter/url?label=Blog&logo=Medium&style=social&url=https%3A%2F%2Fmedium.com%2F%40maladeep.upadhaya" alt="Medium"></a> <a href="https://www.sanjayakumargiri.com.np" target="_blank"><img src="https://img.shields.io/twitter/url?label=Website&logo=na&style=social&url=https%3A%2F%2Fmdu.com.np%2F" alt="Website"></a>
-<a href="https://www.instagram.com/sanjayak.giri/" target="_blank"><img src="https://img.shields.io/instagram/url?label=Website&logo=na&style=social&url=https%3A%2F%2Fmdu.com.np%2F" alt="instagram"></a>
+<a href="https://www.instagram.com/sanjayak.giri/" target="_blank" ><img src="https://img.shields.io/badge/Instagram--_.svg?style=social&logo=instagram" alt="Instagram"></a>
 <h1 align="center">Hi , I'm Sanjaya <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <div align="center">
