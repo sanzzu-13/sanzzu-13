@@ -14,7 +14,7 @@
 
 ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>About Me</b>
 
-- 🔭 I’m currently working in `freelancing` as `DATA Scientist`
+- 🔭 I’m currently working in `freelancing` as `DATA Science sector `
 
 - 👯 I’m looking forward to collaborate on open source projects.
 
